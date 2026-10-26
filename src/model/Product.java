@@ -104,7 +104,4 @@ public class Product{
         }
         this.lowStockThreshold = setLowStockThreshold;
     }
-
-
-
 }
