@@ -1,10 +1,7 @@
-
 package service;
 
 import model.Product;
-import exception.DuplicateProductException;
-import exception.ProductNotFoundException;
-import exception.InsufficientStockException;
+import exception.*;
 
 import java.util.Collection;
 import java.util.HashMap;
